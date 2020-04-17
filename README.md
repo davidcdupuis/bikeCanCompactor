@@ -28,26 +28,33 @@ We designed a modular and easy to assemble storage bin made up of three componen
 
 Non-crushed cans are stored in the following bin, with an inner tilted floor to allow the cans to roll down. It was modular in the sense that the bins could be easily stacked to create more storage space. The top and bottom opening are large enough for a soda can to fall through.
 
+<p>
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Boite.png"/>
   <figcaption>Modular Non-crushed Cans Storage Bin</figcaption>
 </figure>
+</p>
 
+<p>
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/reservoir-schema.png"/>
   <figcaption>Modular Storage Bin </figcaption>
 </figure>
+</p>
 
-
+<p>
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/boite-canettes.png"/>
   <figcaption>Assembled Storage Bin with Cans</figcaption>
 </figure>
+</p>
 
+<p>
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Boite-schéma3.png"/>
   <figcaption>Crushed Cans Trash Bin</figcaption>
 </figure>
+</p>
 
 Cans would fall into the piston casing were the piston would crush the can which would then be small enough to fit through the slot at the bottom. The crushed can would fall into the trash bin.
 
@@ -67,17 +74,13 @@ We designed a simple piston made of steel which can be attached to a mobile arm 
     </th>
   </tr>
   <tr>
-    <td>
-      <figure style="text-align:center;">
-        <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/piston.png"/>
-        <figcaption>Solid</figcaption>
-      </figure>
+    <td style="text-align:center;">
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/piston.png"/>
+      <figcaption>Solid</figcaption>
     </td>
-    <td>
-      <figure style="text-align:center;">
-        <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Piston-schéma1.png"/>
-        <figcaption>Transparent</figcaption>
-      </figure>
+    <td style="text-align:center;">
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Piston-schéma1.png"/>
+      <figcaption>Transparent</figcaption>
     </td>
   </tr>
 </table>

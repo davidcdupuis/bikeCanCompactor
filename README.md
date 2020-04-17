@@ -28,28 +28,28 @@ We designed a modular and easy to assemble storage bin made up of three componen
 
 Non-crushed cans are stored in the following bin, with an inner tilted floor to allow the cans to roll down. It was modular in the sense that the bins could be easily stacked to create more storage space. The top and bottom opening are large enough for a soda can to fall through.
 
-<p>
-<figure style="text-align:center;">
-  <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Boite.png"/>
-  <figcaption>Modular Non-crushed Cans Storage Bin</figcaption>
-</figure>
+<p align="center">
+  <figure style="text-align:center;">
+    <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Boite.png"/>
+    <figcaption>Modular Non-crushed Cans Storage Bin</figcaption>
+  </figure>
 </p>
 
-<p>
+<p align="center">
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/reservoir-schema.png"/>
   <figcaption>Modular Storage Bin </figcaption>
 </figure>
 </p>
 
-<p>
+<p align="center">
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/boite-canettes.png"/>
   <figcaption>Assembled Storage Bin with Cans</figcaption>
 </figure>
 </p>
 
-<p>
+<p align="center">
 <figure style="text-align:center;">
   <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Boite-schéma3.png"/>
   <figcaption>Crushed Cans Trash Bin</figcaption>
@@ -75,7 +75,7 @@ We designed a simple piston made of steel which can be attached to a mobile arm 
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/piston.png"/>
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/Piston.png"/>
       <figcaption>Solid</figcaption>
     </td>
     <td style="text-align:center;">
@@ -126,16 +126,16 @@ Specific measurements details of the piston are available in the images folder.
   </tr>
   <tr>
     <td>
-      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0143.jpg"/>
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0143.JPG"/>
     </td>
     <td>
-      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0144.jpg"/>
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0144.JPG"/>
     </td>
     <td>
-      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0145.jpg"/>
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0145.JPG"/>
     </td>
     <td>
-      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0146.jpg"/>
+      <img src="Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/Images/IMG_0146.JPG"/>
     </td>
   </tr>
 </table>
@@ -159,4 +159,4 @@ the cans by 2.
 
 * Most resources can be found [here](Communication-Technique-DD-AG-AN-RS-GROUPE_A-PROMO_2016/)
 * Can crushing tests videos and pictures available under: [com/](com/)
-* Some can crushing testing results are available under [essais canettes](essais canettes/)
+* Some can crushing testing results are available under [essais canettes](essais%20canettes/)
